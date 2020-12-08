@@ -1,4 +1,21 @@
+#container {
+    font-family: Verdana;
+    max-width: 500px;
+    margin: auto
+}
+
 .box {
     display: flex;
     padding: 10px;
+    border: 1px solid aqua;
+    justify-content: space-around;
+    background-color: darkblue;
  }
+
+app-crew, app-equipment, app-experiments {
+    border: 1px solid aqua;
+    padding: 10px;
+    margin: 5px;
+    background-color: green;
+    text-align: center;
+}

@@ -1,0 +1,16 @@
+#header {
+    border: 1px solid aqua;
+    text-align: center;
+    background-color: darkblue;
+}
+
+#header-buffer {
+    border: 1px solid aqua;
+    margin: 15px;
+    padding: 15px;
+    background-color: green;
+}
+
+h1 {
+    color: darkblue
+}

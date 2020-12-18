@@ -1,3 +1,7 @@
+* {
+    font-family: Verdana;
+}
+
 .box {
     display: flex;
     padding: 10px;
